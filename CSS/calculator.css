@@ -71,5 +71,5 @@ textarea{
 input:hover:not(.active){
 	
 	background-color:cyan;
-	cursor:pointer;
+	cursor:crosshair;
 }
